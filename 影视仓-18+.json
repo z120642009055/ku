@@ -39,14 +39,14 @@
 
     {"key": "xnezy", "name": "🔞香奶儿", "type": 1, "api": "https://www.gdlsp.com/api/json.php", "searchable": 1, "quickSearch": 1},
 
- {"key": "ysjzy", "name": "🔞美少女2", "type": 1, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1},
+ {"key": "msn2", "name": "🔞美少女2", "type": 1, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1},
 
- {"key": "ysjzy", "name": "🔞香奶儿2", "type": 1, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1},
+ {"key": "xne2", "name": "🔞香奶儿2", "type": 1, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1},
 
- {"key": "ysjzy", "name": "🔞白嫖资源2", "type": 1, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1},
+ {"key": "bpzy2", "name": "🔞白嫖资源2", "type": 1, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1},
 
- {"key": "ysjzy", "name": "🔞PGX电影", "type": 1, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1},
+ {"key": "pgxdy", "name": "🔞PGX电影", "type": 1, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1},
 
- {"key": "ysjzy", "name": "🔞大地AV", "type": 1, "api": "https://dadiapi.com/apple_m3u8.php", "searchable": 1, "quickSearch": 1}
+ {"key": "ddav", "name": "🔞大地AV", "type": 1, "api": "https://dadiapi.com/apple_m3u8.php", "searchable": 1, "quickSearch": 1}
     ]
 }
