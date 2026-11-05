@@ -145,6 +145,87 @@
       "from": "custom",
       "disabled": false,
       "subscriptionId": null
+    }，
+    "1792362389778": {
+      "key": "1792362389778",
+      "name": "🔞 CK-资源",
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+      },
+    "1793872114854": {
+      "key": "1793872114854",
+      "name": "🔞黑料X",
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872154405": {
+      "key": "1793872154405",
+      "name": "🔞淫水机",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872172345": {
+      "key": "1793872172345",
+      "name": "🔞香奶儿",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872190200": {
+      "key": "1793872190200",
+      "name": "🔞美少女2",
+      "api": "https://www.msnii.com/api/xml.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872207714": {
+      "key": "1793872207714",
+      "name": "🔞香奶儿2",
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872225733": {
+      "key": "1793872225733",
+      "name": "🔞白嫖资源2",
+      "api": "https://www.kxgav.com/api/xml.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872247081": {
+      "key": "1793872247081",
+      "name": "🔞PGX电影",
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
+    "1793872269634": {
+      "key": "1793872269634",
+      "name": "🔞大地AV",
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
     }
   },
   "lives": {},
