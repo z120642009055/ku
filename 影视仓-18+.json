@@ -45,7 +45,7 @@
 
  {"key": "bpzy2", "name": "🔞白嫖资源2", "type": 1, "api": "https://www.kxgav.com/api/xml.php/provide/vod", "searchable": 1, "quickSearch": 1},
 
- {"key": "pgxdy", "name": "🔞PGX电影", "type": 1, "api": "https://www.pgxdy.com/api/xml.php/provide/vod", "searchable": 1, "quickSearch": 1},
+ {"key": "pgxdy", "name": "🔞PGX电影", "type": 0, "api": "https://www.pgxdy.com/api/xml.php/provide/vod", "searchable": 1, "quickSearch": 1},
 
  {"key": "ddav", "name": "🔞大地AV", "type": 1, "api": "https://dadiapi.com/apple_m3u8.php/provide/vod", "searchable": 1, "quickSearch": 1}
     ]
