@@ -145,33 +145,6 @@
       "from": "custom",
       "disabled": false,
       "subscriptionId": null
-    }，
-    "1793872114854": {
-      "key": "1793872114854",
-      "name": "🔞黑料X",
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
-      "detail": null,
-      "from": "custom",
-      "disabled": false,
-      "subscriptionId": null
-    },
-    "1793872154405": {
-      "key": "1793872154405",
-      "name": "🔞淫水机",
-      "api": "https://www.xrbsp.com/api/json.php",
-      "detail": null,
-      "from": "custom",
-      "disabled": false,
-      "subscriptionId": null
-    },
-    "1793872172345": {
-      "key": "1793872172345",
-      "name": "🔞香奶儿",
-      "api": "https://www.gdlsp.com/api/json.php",
-      "detail": null,
-      "from": "custom",
-      "disabled": false,
-      "subscriptionId": null
     }
   },
   "lives": {},
