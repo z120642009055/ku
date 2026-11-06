@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KU 音源订阅目录</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{max-width:800px;margin:40px auto;padding:0 20px;font-family:system-ui, sans-serif;background:#121212;color:#eee}
+h1{margin-bottom:20px;font-size:22px}
+a{color:#42a5f5;display:block;padding:8px 0;text-decoration:none}
+a:hover{text-decoration:underline}
+.note{color:#aaa;margin:16px 0;font-size:14px}
+</style>
+</head>
+<body>
+<h1>📁 KU 订阅源目录</h1>
+<div class="note">此页面用于避免 GitHub Pages 404，点击下方链接复制地址导入 LX Music</div>
+<div id="list"></div>
+
+<script>
+// GitHub Pages 不支持后端自动列文件！
+// ⚠️ 重要：你需要手动在这里补充你的json文件名
+const files = [
+  "source.json",
+  "vip.json"
+];
+const base = window.location.href;
+const el = document.getElementById("list");
+files.forEach(f=>{
+  const a = document.createElement("a");
+  a.href = base + f;
+  a.textContent = base + f;
+  el.appendChild(a);
+})
+</script>
+</body>
+</html>
