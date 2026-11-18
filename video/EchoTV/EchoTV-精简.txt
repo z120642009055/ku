@@ -2,6 +2,15 @@
   "site_name": "EchoTV",
   "announcement": "",
   "api_site": {
+    "1794972041531": {
+      "key": "1794972041531",
+      "name": "创享影视",
+      "api": "https://ys.cxkjg.cn/api/provide/vod",
+      "detail": null,
+      "from": "custom",
+      "disabled": false,
+      "subscriptionId": null
+    },
     "1792361682018": {
       "key": "1792361682018",
       "name": "猫眼资源",
@@ -9,7 +18,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362580422"
+      "subscriptionId": "1794911323209"
     },
     "1792361693203": {
       "key": "1792361693203",
@@ -18,7 +27,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362580422"
+      "subscriptionId": "1794911323209"
     },
     "1792361703859": {
       "key": "1792361703859",
@@ -27,7 +36,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362580422"
+      "subscriptionId": "1794911323209"
     },
     "1792361716615": {
       "key": "1792361716615",
@@ -36,7 +45,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362580422"
+      "subscriptionId": "1794911323209"
     },
     "1792361743006": {
       "key": "1792361743006",
@@ -45,7 +54,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362580422"
+      "subscriptionId": "1794911323209"
     },
     "1792362206497": {
       "key": "1792362206497",
@@ -54,7 +63,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362887812"
+      "subscriptionId": "1794911323209"
     },
     "1792362219179": {
       "key": "1792362219179",
@@ -63,7 +72,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362887812"
+      "subscriptionId": "1794911323209"
     },
     "1792362262044": {
       "key": "1792362262044",
@@ -72,7 +81,7 @@
       "detail": null,
       "from": "subscription",
       "disabled": false,
-      "subscriptionId": "1792362887812"
+      "subscriptionId": "1794911323209"
     }
   },
   "lives": {},
